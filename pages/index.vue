@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        The new name of the project is no longer shit!
+        The new name of the project is no longer shit 2!
       </h1>
       <h2 class="subtitle">
         My riveting Nuxt.js project
