@@ -1,4 +1,4 @@
-# Shit-project
+# Test Project of Nuxt! 
 
 > My riveting Nuxt.js project
 
